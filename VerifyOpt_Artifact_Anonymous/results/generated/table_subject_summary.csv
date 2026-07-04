@@ -1,0 +1,5 @@
+system,language,loc,modules,verification_tasks,log_source
+system_a,C embedded,287400,412,1847,historical_ci_2024_06_to_2025_03
+system_b,C++ systems,156200,234,962,replayed_experiment_2024_09_to_2025_01
+system_c,C systems,89300,178,534,historical_ci_2024_01_to_2025_03
+total,,532900,824,3343,

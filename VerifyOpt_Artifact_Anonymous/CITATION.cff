@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "VerifyOpt Anonymous Artifact"
+message: "If this artifact is useful, please cite the corresponding ISSRE Industry Track paper after publication."
+type: software
+version: "1.0-anonymous"
+authors:
+  - family-names: "Anonymous"
+    given-names: "Authors"

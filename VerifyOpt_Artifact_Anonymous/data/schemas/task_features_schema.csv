@@ -1,0 +1,25 @@
+column,type,description
+task_id,string,Anonymized task identifier
+system,enum,system_a/system_b/system_c
+module_id,string,Anonymized module identifier
+language,string,C or C++
+loc,integer,Module lines of code
+cyclomatic_complexity,integer,Cyclomatic complexity
+loop_count,integer,Number of syntactic loops
+pointer_use,integer,1 if pointer operations appear
+fan_in,integer,Call graph fan-in
+fan_out,integer,Call graph fan-out
+recursion,integer,1 if recursion detected
+switch_density,float,Switch statements per KLOC
+macro_expansion_size,integer,Expanded macro characters
+changed_code_size,integer,Changed lines in pull request
+property_type,enum,range/memory_safety/nullness/assertion/resource_leak/concurrency
+criticality_flag,integer,1 for safety/security critical property
+previous_runtime_s,float,Previous verifier runtime
+previous_timeout,integer,Previous timeout flag
+previous_warning_count,integer,Historical warning count
+previous_confirmed_warning_ratio,float,Confirmed warning ratio
+previous_human_escalation,integer,1 if escalated previously
+fast_status,enum,verified/defect/timeout/unknown
+precise_status,enum,verified/defect/timeout
+split,enum,train/test/example

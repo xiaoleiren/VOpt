@@ -1,0 +1,6 @@
+policy,vpb_2h,vpb_4h,vpb_8h,timeouts,fp_triage_min,mttar_min,fallback_rate_percent,light_strategy_tasks,ufn_percent,defects_found
+Fixed fast,2435,2448,2451,12,467,3.2,,3343,4.1,81
+Fixed precise,1202,1845,2150,617,94,14.7,0.0,0,0.0,218
+Rule baseline,1892,2120,2300,187,234,6.8,,2567,2.8,146
+VerifyOpt,2462,2510,2535,89,142,4.1,0.0,2006,1.1,196
+VerifyOpt + fallback,2380,2475,2520,47,168,5.3,12.3,1839,0.2,214

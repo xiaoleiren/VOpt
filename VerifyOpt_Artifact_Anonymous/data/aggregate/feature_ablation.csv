@@ -1,0 +1,6 @@
+feature_set,vpb_4h,ufn_percent
+all_features,2510,1.1
+without_module_names_paths,2496,1.2
+without_historical_outcomes,2432,1.6
+without_property_type,2449,1.5
+program_features_only,2387,2.1

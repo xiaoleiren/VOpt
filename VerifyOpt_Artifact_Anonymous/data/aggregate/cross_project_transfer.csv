@@ -1,0 +1,6 @@
+train_system,test_system,test_tasks,vpb_4h,ufn_percent
+system_a,system_a,435,345,1.3
+system_a,system_b,338,280,2.6
+system_a,system_c,142,105,2.1
+system_b,system_a,435,318,2.8
+system_c,system_a,435,332,2.4

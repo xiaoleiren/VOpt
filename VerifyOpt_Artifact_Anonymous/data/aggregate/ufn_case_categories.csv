@@ -1,0 +1,3 @@
+category,verifyopt_ufn_cases
+macro_obscured_memory_safety,15
+data_dependent_loop_boundary_assertion,7

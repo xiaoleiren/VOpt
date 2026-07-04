@@ -1,0 +1,4 @@
+model=transparent_dependency_free_smoke_test
+note=The paper used XGBoost; this script validates schema and feature flow without requiring xgboost.
+example_test_accuracy=0.5075
+rows_test=804

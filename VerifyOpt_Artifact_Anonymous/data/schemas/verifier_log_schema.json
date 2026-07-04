@@ -1,0 +1,8 @@
+{
+  "task_id": "string",
+  "mode": "fast|precise|verifyopt|verifyopt_fallback",
+  "status": "verified|defect|timeout|unknown|ticket",
+  "runtime_s": "number",
+  "budget_h": "number|null",
+  "fallback_reason": "string|null"
+}

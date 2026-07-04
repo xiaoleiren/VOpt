@@ -1,0 +1,15 @@
+panel,setting,vpb_4h,ufn_percent,fallback_rate_percent
+feature_ablation,all_features,2510,1.1,
+feature_ablation,without_module_names_paths,2496,1.2,
+feature_ablation,without_historical_outcomes,2432,1.6,
+feature_ablation,without_property_type,2449,1.5,
+feature_ablation,program_features_only,2387,2.1,
+limited_history,1_month,312,1.8,18.3
+limited_history,2_months,325,1.4,15.7
+limited_history,3_months,335,1.2,14.1
+limited_history,7_months_full,345,1.3,14.5
+cross_project_transfer,system_a->system_a (435 tasks),345,1.3,
+cross_project_transfer,system_a->system_b (338 tasks),280,2.6,
+cross_project_transfer,system_a->system_c (142 tasks),105,2.1,
+cross_project_transfer,system_b->system_a (435 tasks),318,2.8,
+cross_project_transfer,system_c->system_a (435 tasks),332,2.4,

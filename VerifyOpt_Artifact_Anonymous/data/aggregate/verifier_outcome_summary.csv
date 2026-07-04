@@ -1,0 +1,4 @@
+system,tasks,verified_fast,verified_precise,defects_precise,timeouts_fast,timeouts_precise,defects_fast,unknown_fast
+system_a,1847,1341,1300,127,5,420,54,447
+system_b,962,698,750,58,4,154,18,242
+system_c,534,414,458,33,3,43,9,108

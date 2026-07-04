@@ -1,0 +1,6 @@
+kind,name,cases
+ufn_category,macro_obscured_memory_safety,15
+ufn_category,data_dependent_loop_boundary_assertion,7
+fallback_breakdown,ai_low_confidence_0_71_to_0_74,7
+fallback_breakdown,security_critical_rule_flag,11
+fallback_breakdown,remaining_unrecovered_ufn,4

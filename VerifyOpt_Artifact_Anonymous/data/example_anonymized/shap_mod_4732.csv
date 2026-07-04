@@ -1,0 +1,7 @@
+feature,value,shap_value,direction
+loc,287,-0.21,toward_light
+cyclomatic_complexity,8,-0.16,toward_light
+previous_warning_count,0,-0.18,toward_light
+macro_expansion_size,1200,0.07,toward_precise
+property_type_range,1,0.05,toward_precise
+criticality_flag,1,0.22,toward_fallback

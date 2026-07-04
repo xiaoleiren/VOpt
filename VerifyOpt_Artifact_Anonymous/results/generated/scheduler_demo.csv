@@ -1,0 +1,17 @@
+budget_h,policy,verified_properties,verified,defect,timeout,unknown,ticket
+1,fixed_fast,2453,2453,81,12,797,0
+2,fixed_fast,2453,2453,81,12,797,0
+4,fixed_fast,2453,2453,81,12,797,0
+8,fixed_fast,2453,2453,81,12,797,0
+1,fixed_precise,468,468,33,2842,0,0
+2,fixed_precise,523,523,39,2781,0,0
+4,fixed_precise,1659,1659,147,1537,0,0
+8,fixed_precise,2400,2400,211,732,0,0
+1,rule,1692,1692,59,1116,476,0
+2,rule,1984,1984,94,789,476,0
+4,rule,2442,2442,130,295,476,0
+8,rule,2479,2479,132,256,476,0
+1,verifyopt,1174,1174,62,1870,237,0
+2,verifyopt,1268,1268,71,1767,237,0
+4,verifyopt,2078,2078,146,882,237,0
+8,verifyopt,2452,2452,177,477,237,0
