@@ -1,6 +1,6 @@
 # VerifyOpt Artifact (Anonymous)
 
-This repository contains the reproducibility artifact for the ISSRE Industry Track submission **"Making Deep Program Verification Practical in Continuous Integration: Artificial Intelligence-Assisted Strategy Selection under Industrial Reliability Budgets"**.
+This repository contains the reproducibility artifact for the ISSRE Industry Track submission.
 
 The artifact is designed for anonymous review. It contains:
 
